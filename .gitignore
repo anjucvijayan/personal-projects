@@ -5,3 +5,4 @@ LLM_project_with_gemini/data
 gemini api.txt
 gemini_test/
 ket.txt
+*.pyc
